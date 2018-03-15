@@ -8,5 +8,5 @@ The package can be install into R by typing:
 
 ```
 library(devtools)
-install_github("isglobal-brge/TestSurvRect")
+install_github("isglobal-brge/TestSurvRec")
 ```
